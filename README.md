@@ -22,9 +22,8 @@ A machine learning web application built with Django that classifies Iris flower
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jameslorry6666/Django-Iris-App.git
+git clone https://github.com/Jameslorry666/Django-Iris-App.git
 cd Django-Iris-App
-python -m venv venv
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
